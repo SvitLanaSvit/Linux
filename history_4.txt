@@ -1,0 +1,8 @@
+   0 touch /home/chmodFile
+   1 date > /home/chmodFile 
+   2 vi /home/chmodFile 
+   3 cd /home/
+   4 ls -la
+   5 chmod u-r chmodFile
+   6 chmod ug+x chmodFile
+   7 history > /tmp/history_4.txt
